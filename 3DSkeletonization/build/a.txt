@@ -1,0 +1,1730 @@
+Id arete : 0 -> id sommets : 0 23-> id cells : 33 32 
+Id arete : 1 -> id sommets : 0 22-> id cells : 32 30 
+Id arete : 2 -> id sommets : 0 20-> id cells : 35 34 33 32 31 30 
+Id arete : 3 -> id sommets : 0 17-> id cells : 31 30 
+Id arete : 4 -> id sommets : 0 7-> id cells : 35 34 5 4 
+Id arete : 5 -> id sommets : 0 6-> id cells : 35 33 4 2 
+Id arete : 6 -> id sommets : 0 5-> id cells : 3 2 
+Id arete : 7 -> id sommets : 0 4-> id cells : 34 31 5 1 
+Id arete : 8 -> id sommets : 0 3-> id cells : 5 4 3 2 1 0 
+Id arete : 9 -> id sommets : 0 2-> id cells : 3 0 
+Id arete : 10 -> id sommets : 0 1-> id cells : 1 0 
+Id arete : 11 -> id sommets : 1 11-> id cells : 13 8 
+Id arete : 12 -> id sommets : 1 10-> id cells : 13 12 8 7 
+Id arete : 13 -> id sommets : 1 8-> id cells : 8 7 
+Id arete : 14 -> id sommets : 1 4-> id cells : 12 7 1 
+Id arete : 15 -> id sommets : 1 3-> id cells : 13 12 1 0 
+Id arete : 16 -> id sommets : 1 2-> id cells : 0 
+Id arete : 17 -> id sommets : 2 5-> id cells : 3 
+Id arete : 18 -> id sommets : 2 3-> id cells : 3 0 
+Id arete : 19 -> id sommets : 3 15-> id cells : 16 15 
+Id arete : 20 -> id sommets : 3 14-> id cells : 17 15 
+Id arete : 21 -> id sommets : 3 11-> id cells : 16 13 
+Id arete : 22 -> id sommets : 3 10-> id cells : 17 16 15 14 13 12 
+Id arete : 23 -> id sommets : 3 7-> id cells : 17 14 5 4 
+Id arete : 24 -> id sommets : 3 6-> id cells : 4 2 
+Id arete : 25 -> id sommets : 3 5-> id cells : 3 2 
+Id arete : 26 -> id sommets : 3 4-> id cells : 14 12 5 1 
+Id arete : 27 -> id sommets : 4 20-> id cells : 34 31 26 25 
+Id arete : 28 -> id sommets : 4 17-> id cells : 31 25 19 
+Id arete : 29 -> id sommets : 4 16-> id cells : 19 18 
+Id arete : 30 -> id sommets : 4 10-> id cells : 26 25 19 18 14 12 7 6 
+Id arete : 31 -> id sommets : 4 9-> id cells : 18 6 
+Id arete : 32 -> id sommets : 4 8-> id cells : 7 6 
+Id arete : 33 -> id sommets : 4 7-> id cells : 34 26 14 5 
+Id arete : 34 -> id sommets : 5 6-> id cells : 2 
+Id arete : 35 -> id sommets : 6 23-> id cells : 33 
+Id arete : 36 -> id sommets : 6 20-> id cells : 35 33 
+Id arete : 37 -> id sommets : 6 7-> id cells : 35 4 
+Id arete : 38 -> id sommets : 7 20-> id cells : 35 34 29 26 
+Id arete : 39 -> id sommets : 7 14-> id cells : 29 17 
+Id arete : 40 -> id sommets : 7 10-> id cells : 29 26 17 14 
+Id arete : 41 -> id sommets : 8 13-> id cells : 11 10 
+Id arete : 42 -> id sommets : 8 12-> id cells : 10 9 
+Id arete : 43 -> id sommets : 8 11-> id cells : 9 8 
+Id arete : 44 -> id sommets : 8 10-> id cells : 11 10 9 8 7 6 
+Id arete : 45 -> id sommets : 8 9-> id cells : 11 6 
+Id arete : 46 -> id sommets : 9 16-> id cells : 23 18 
+Id arete : 47 -> id sommets : 9 13-> id cells : 23 11 
+Id arete : 48 -> id sommets : 9 10-> id cells : 23 18 11 6 
+Id arete : 49 -> id sommets : 10 42-> id cells : 80 79 78 77 76 75 
+Id arete : 50 -> id sommets : 10 31-> id cells : 76 75 52 51 
+Id arete : 51 -> id sommets : 10 30-> id cells : 53 52 51 50 49 48 
+Id arete : 52 -> id sommets : 10 29-> id cells : 80 79 47 46 
+Id arete : 53 -> id sommets : 10 28-> id cells : 47 46 45 44 43 42 
+Id arete : 54 -> id sommets : 10 27-> id cells : 79 76 53 52 47 43 41 40 
+Id arete : 55 -> id sommets : 10 26-> id cells : 43 42 40 39 
+Id arete : 56 -> id sommets : 10 25-> id cells : 53 48 41 36 
+Id arete : 57 -> id sommets : 10 24-> id cells : 41 40 39 38 37 36 
+Id arete : 58 -> id sommets : 10 21-> id cells : 78 77 28 27 
+Id arete : 59 -> id sommets : 10 20-> id cells : 29 28 27 26 25 24 
+Id arete : 60 -> id sommets : 10 19-> id cells : 50 49 22 21 
+Id arete : 61 -> id sommets : 10 18-> id cells : 77 75 51 50 27 24 21 20 
+Id arete : 62 -> id sommets : 10 17-> id cells : 25 24 20 19 
+Id arete : 63 -> id sommets : 10 16-> id cells : 23 22 21 20 19 18 
+Id arete : 64 -> id sommets : 10 15-> id cells : 45 44 16 15 
+Id arete : 65 -> id sommets : 10 14-> id cells : 80 78 46 44 29 28 17 15 
+Id arete : 66 -> id sommets : 10 13-> id cells : 49 48 37 36 23 22 11 10 
+Id arete : 67 -> id sommets : 10 12-> id cells : 38 37 10 9 
+Id arete : 68 -> id sommets : 10 11-> id cells : 45 42 39 38 16 13 9 8 
+Id arete : 69 -> id sommets : 11 28-> id cells : 45 42 
+Id arete : 70 -> id sommets : 11 26-> id cells : 42 39 
+Id arete : 71 -> id sommets : 11 24-> id cells : 39 38 
+Id arete : 72 -> id sommets : 11 15-> id cells : 45 16 
+Id arete : 73 -> id sommets : 11 12-> id cells : 38 9 
+Id arete : 74 -> id sommets : 12 24-> id cells : 38 37 
+Id arete : 75 -> id sommets : 12 13-> id cells : 37 10 
+Id arete : 76 -> id sommets : 13 30-> id cells : 49 48 
+Id arete : 77 -> id sommets : 13 25-> id cells : 48 36 
+Id arete : 78 -> id sommets : 13 24-> id cells : 37 36 
+Id arete : 79 -> id sommets : 13 19-> id cells : 49 22 
+Id arete : 80 -> id sommets : 13 16-> id cells : 23 22 
+Id arete : 81 -> id sommets : 14 42-> id cells : 80 78 
+Id arete : 82 -> id sommets : 14 29-> id cells : 80 46 
+Id arete : 83 -> id sommets : 14 28-> id cells : 46 44 
+Id arete : 84 -> id sommets : 14 21-> id cells : 78 28 
+Id arete : 85 -> id sommets : 14 20-> id cells : 29 28 
+Id arete : 86 -> id sommets : 14 15-> id cells : 44 15 
+Id arete : 87 -> id sommets : 15 28-> id cells : 45 44 
+Id arete : 88 -> id sommets : 16 38-> id cells : 65 64 
+Id arete : 89 -> id sommets : 16 37-> id cells : 65 64 63 62 61 60 
+Id arete : 90 -> id sommets : 16 36-> id cells : 65 60 
+Id arete : 91 -> id sommets : 16 33-> id cells : 61 60 
+Id arete : 92 -> id sommets : 16 19-> id cells : 64 63 22 21 
+Id arete : 93 -> id sommets : 16 18-> id cells : 63 62 21 20 
+Id arete : 94 -> id sommets : 16 17-> id cells : 62 61 20 19 
+Id arete : 95 -> id sommets : 17 37-> id cells : 67 66 62 61 
+Id arete : 96 -> id sommets : 17 33-> id cells : 66 61 55 
+Id arete : 97 -> id sommets : 17 32-> id cells : 55 54 
+Id arete : 98 -> id sommets : 17 22-> id cells : 54 30 
+Id arete : 99 -> id sommets : 17 20-> id cells : 67 66 55 54 31 30 25 24 
+Id arete : 100 -> id sommets : 17 18-> id cells : 67 62 24 20 
+Id arete : 101 -> id sommets : 18 42-> id cells : 90 87 77 75 
+Id arete : 102 -> id sommets : 18 37-> id cells : 90 87 84 83 70 67 63 62 
+Id arete : 103 -> id sommets : 18 31-> id cells : 87 84 75 51 
+Id arete : 104 -> id sommets : 18 30-> id cells : 84 83 51 50 
+Id arete : 105 -> id sommets : 18 21-> id cells : 90 77 70 27 
+Id arete : 106 -> id sommets : 18 20-> id cells : 70 67 27 24 
+Id arete : 107 -> id sommets : 18 19-> id cells : 83 63 50 21 
+Id arete : 108 -> id sommets : 19 38-> id cells : 82 64 
+Id arete : 109 -> id sommets : 19 37-> id cells : 83 82 64 63 
+Id arete : 110 -> id sommets : 19 30-> id cells : 83 82 50 49 
+Id arete : 111 -> id sommets : 20 39-> id cells : 71 69 
+Id arete : 112 -> id sommets : 20 37-> id cells : 71 70 69 68 67 66 
+Id arete : 113 -> id sommets : 20 35-> id cells : 71 68 59 58 
+Id arete : 114 -> id sommets : 20 34-> id cells : 58 56 
+Id arete : 115 -> id sommets : 20 33-> id cells : 68 66 59 55 
+Id arete : 116 -> id sommets : 20 32-> id cells : 59 58 57 56 55 54 
+Id arete : 117 -> id sommets : 20 23-> id cells : 57 56 33 32 
+Id arete : 118 -> id sommets : 20 22-> id cells : 57 54 32 30 
+Id arete : 119 -> id sommets : 20 21-> id cells : 70 69 28 27 
+Id arete : 120 -> id sommets : 21 42-> id cells : 90 89 78 77 
+Id arete : 121 -> id sommets : 21 39-> id cells : 89 69 
+Id arete : 122 -> id sommets : 21 37-> id cells : 90 89 70 69 
+Id arete : 123 -> id sommets : 22 32-> id cells : 57 54 
+Id arete : 124 -> id sommets : 22 23-> id cells : 57 32 
+Id arete : 125 -> id sommets : 23 34-> id cells : 56 
+Id arete : 126 -> id sommets : 23 32-> id cells : 57 56 
+Id arete : 127 -> id sommets : 24 51-> id cells : 102 101 
+Id arete : 128 -> id sommets : 24 50-> id cells : 101 100 
+Id arete : 129 -> id sommets : 24 49-> id cells : 100 99 
+Id arete : 130 -> id sommets : 24 48-> id cells : 102 101 100 99 98 97 
+Id arete : 131 -> id sommets : 24 27-> id cells : 98 97 41 40 
+Id arete : 132 -> id sommets : 24 26-> id cells : 99 98 40 39 
+Id arete : 133 -> id sommets : 24 25-> id cells : 102 97 41 36 
+Id arete : 134 -> id sommets : 25 51-> id cells : 114 102 
+Id arete : 135 -> id sommets : 25 48-> id cells : 114 109 102 97 
+Id arete : 136 -> id sommets : 25 30-> id cells : 114 109 53 48 
+Id arete : 137 -> id sommets : 25 27-> id cells : 109 97 53 41 
+Id arete : 138 -> id sommets : 26 49-> id cells : 104 99 
+Id arete : 139 -> id sommets : 26 48-> id cells : 104 103 99 98 
+Id arete : 140 -> id sommets : 26 28-> id cells : 104 103 43 42 
+Id arete : 141 -> id sommets : 26 27-> id cells : 103 98 43 40 
+Id arete : 142 -> id sommets : 27 48-> id cells : 117 116 110 109 105 103 98 97 
+Id arete : 143 -> id sommets : 27 42-> id cells : 117 116 79 76 
+Id arete : 144 -> id sommets : 27 31-> id cells : 116 110 76 52 
+Id arete : 145 -> id sommets : 27 30-> id cells : 110 109 53 52 
+Id arete : 146 -> id sommets : 27 29-> id cells : 117 105 79 47 
+Id arete : 147 -> id sommets : 27 28-> id cells : 105 103 47 43 
+Id arete : 148 -> id sommets : 28 53-> id cells : 107 106 
+Id arete : 149 -> id sommets : 28 52-> id cells : 108 106 
+Id arete : 150 -> id sommets : 28 49-> id cells : 107 104 
+Id arete : 151 -> id sommets : 28 48-> id cells : 108 107 106 105 104 103 
+Id arete : 152 -> id sommets : 28 29-> id cells : 108 105 47 46 
+Id arete : 153 -> id sommets : 29 52-> id cells : 120 108 
+Id arete : 154 -> id sommets : 29 48-> id cells : 120 117 108 105 
+Id arete : 155 -> id sommets : 29 42-> id cells : 120 117 80 79 
+Id arete : 156 -> id sommets : 30 67-> id cells : 146 145 
+Id arete : 157 -> id sommets : 30 66-> id cells : 146 145 144 143 142 141 
+Id arete : 158 -> id sommets : 30 55-> id cells : 145 144 113 112 
+Id arete : 159 -> id sommets : 30 54-> id cells : 144 143 112 111 
+Id arete : 160 -> id sommets : 30 51-> id cells : 114 113 
+Id arete : 161 -> id sommets : 30 48-> id cells : 114 113 112 111 110 109 
+Id arete : 162 -> id sommets : 30 44-> id cells : 142 141 86 85 
+Id arete : 163 -> id sommets : 30 43-> id cells : 146 141 86 81 
+Id arete : 164 -> id sommets : 30 38-> id cells : 82 81 
+Id arete : 165 -> id sommets : 30 37-> id cells : 86 85 84 83 82 81 
+Id arete : 166 -> id sommets : 30 31-> id cells : 143 142 111 110 85 84 52 51 
+Id arete : 167 -> id sommets : 31 66-> id cells : 148 147 143 142 
+Id arete : 168 -> id sommets : 31 54-> id cells : 148 143 115 111 
+Id arete : 169 -> id sommets : 31 48-> id cells : 116 115 111 110 
+Id arete : 170 -> id sommets : 31 44-> id cells : 147 142 88 85 
+Id arete : 171 -> id sommets : 31 42-> id cells : 148 147 116 115 88 87 76 75 
+Id arete : 172 -> id sommets : 31 37-> id cells : 88 87 85 84 
+Id arete : 173 -> id sommets : 32 35-> id cells : 59 58 
+Id arete : 174 -> id sommets : 32 34-> id cells : 58 56 
+Id arete : 175 -> id sommets : 32 33-> id cells : 59 55 
+Id arete : 176 -> id sommets : 33 40-> id cells : 72 
+Id arete : 177 -> id sommets : 33 37-> id cells : 72 68 66 61 60 
+Id arete : 178 -> id sommets : 33 36-> id cells : 72 60 
+Id arete : 179 -> id sommets : 33 35-> id cells : 68 59 
+Id arete : 180 -> id sommets : 34 35-> id cells : 58 
+Id arete : 181 -> id sommets : 35 39-> id cells : 71 
+Id arete : 182 -> id sommets : 35 37-> id cells : 71 68 
+Id arete : 183 -> id sommets : 36 40-> id cells : 74 72 
+Id arete : 184 -> id sommets : 36 38-> id cells : 74 65 
+Id arete : 185 -> id sommets : 36 37-> id cells : 74 72 65 60 
+Id arete : 186 -> id sommets : 37 65-> id cells : 140 139 
+Id arete : 187 -> id sommets : 37 47-> id cells : 139 95 
+Id arete : 188 -> id sommets : 37 46-> id cells : 96 95 94 93 
+Id arete : 189 -> id sommets : 37 45-> id cells : 140 92 91 
+Id arete : 190 -> id sommets : 37 44-> id cells : 140 139 96 95 92 88 86 85 
+Id arete : 191 -> id sommets : 37 43-> id cells : 96 93 86 81 
+Id arete : 192 -> id sommets : 37 42-> id cells : 92 91 90 89 88 87 
+Id arete : 193 -> id sommets : 37 41-> id cells : 94 73 
+Id arete : 194 -> id sommets : 37 40-> id cells : 74 73 72 
+Id arete : 195 -> id sommets : 37 39-> id cells : 91 89 71 69 
+Id arete : 196 -> id sommets : 37 38-> id cells : 94 93 82 81 74 73 65 64 
+Id arete : 197 -> id sommets : 38 46-> id cells : 94 93 
+Id arete : 198 -> id sommets : 38 43-> id cells : 93 81 
+Id arete : 199 -> id sommets : 38 41-> id cells : 94 73 
+Id arete : 200 -> id sommets : 38 40-> id cells : 74 73 
+Id arete : 201 -> id sommets : 39 45-> id cells : 91 
+Id arete : 202 -> id sommets : 39 42-> id cells : 91 89 
+Id arete : 203 -> id sommets : 40 41-> id cells : 73 
+Id arete : 204 -> id sommets : 41 46-> id cells : 94 
+Id arete : 205 -> id sommets : 42 68-> id cells : 152 150 
+Id arete : 206 -> id sommets : 42 66-> id cells : 152 151 150 149 148 147 
+Id arete : 207 -> id sommets : 42 56-> id cells : 151 150 119 118 
+Id arete : 208 -> id sommets : 42 54-> id cells : 151 148 118 115 
+Id arete : 209 -> id sommets : 42 52-> id cells : 120 119 
+Id arete : 210 -> id sommets : 42 48-> id cells : 120 119 118 117 116 115 
+Id arete : 211 -> id sommets : 42 45-> id cells : 152 149 92 91 
+Id arete : 212 -> id sommets : 42 44-> id cells : 149 147 92 88 
+Id arete : 213 -> id sommets : 43 67-> id cells : 158 146 
+Id arete : 214 -> id sommets : 43 66-> id cells : 158 153 146 141 
+Id arete : 215 -> id sommets : 43 46-> id cells : 158 153 96 93 
+Id arete : 216 -> id sommets : 43 44-> id cells : 153 141 96 86 
+Id arete : 217 -> id sommets : 44 66-> id cells : 161 160 154 153 149 147 142 141 
+Id arete : 218 -> id sommets : 44 65-> id cells : 161 160 140 139 
+Id arete : 219 -> id sommets : 44 47-> id cells : 160 154 139 95 
+Id arete : 220 -> id sommets : 44 46-> id cells : 154 153 96 95 
+Id arete : 221 -> id sommets : 44 45-> id cells : 161 149 140 92 
+Id arete : 222 -> id sommets : 45 68-> id cells : 164 152 
+Id arete : 223 -> id sommets : 45 66-> id cells : 164 161 152 149 
+Id arete : 224 -> id sommets : 45 65-> id cells : 164 161 140 
+Id arete : 225 -> id sommets : 46 70-> id cells : 157 156 
+Id arete : 226 -> id sommets : 46 69-> id cells : 156 155 
+Id arete : 227 -> id sommets : 46 67-> id cells : 158 157 
+Id arete : 228 -> id sommets : 46 66-> id cells : 158 157 156 155 154 153 
+Id arete : 229 -> id sommets : 46 47-> id cells : 155 154 95 
+Id arete : 230 -> id sommets : 47 69-> id cells : 159 155 
+Id arete : 231 -> id sommets : 47 66-> id cells : 160 159 155 154 
+Id arete : 232 -> id sommets : 47 65-> id cells : 160 159 139 
+Id arete : 233 -> id sommets : 48 72-> id cells : 170 169 168 167 166 165 
+Id arete : 234 -> id sommets : 48 64-> id cells : 166 165 137 136 
+Id arete : 235 -> id sommets : 48 63-> id cells : 138 137 136 135 134 133 
+Id arete : 236 -> id sommets : 48 62-> id cells : 170 169 132 131 
+Id arete : 237 -> id sommets : 48 61-> id cells : 132 131 130 129 128 127 
+Id arete : 238 -> id sommets : 48 60-> id cells : 169 166 138 137 132 128 126 125 
+Id arete : 239 -> id sommets : 48 59-> id cells : 128 127 125 124 
+Id arete : 240 -> id sommets : 48 58-> id cells : 138 133 126 121 
+Id arete : 241 -> id sommets : 48 57-> id cells : 126 125 124 123 122 121 
+Id arete : 242 -> id sommets : 48 56-> id cells : 168 167 119 118 
+Id arete : 243 -> id sommets : 48 55-> id cells : 135 134 113 112 
+Id arete : 244 -> id sommets : 48 54-> id cells : 167 165 136 135 118 115 112 111 
+Id arete : 245 -> id sommets : 48 53-> id cells : 130 129 107 106 
+Id arete : 246 -> id sommets : 48 52-> id cells : 170 168 131 129 120 119 108 106 
+Id arete : 247 -> id sommets : 48 51-> id cells : 134 133 122 121 114 113 102 101 
+Id arete : 248 -> id sommets : 48 50-> id cells : 123 122 101 100 
+Id arete : 249 -> id sommets : 48 49-> id cells : 130 127 124 123 107 104 100 99 
+Id arete : 250 -> id sommets : 49 61-> id cells : 130 127 
+Id arete : 251 -> id sommets : 49 59-> id cells : 127 124 
+Id arete : 252 -> id sommets : 49 57-> id cells : 124 123 
+Id arete : 253 -> id sommets : 49 53-> id cells : 130 107 
+Id arete : 254 -> id sommets : 49 50-> id cells : 123 100 
+Id arete : 255 -> id sommets : 50 57-> id cells : 123 122 
+Id arete : 256 -> id sommets : 50 51-> id cells : 122 101 
+Id arete : 257 -> id sommets : 51 63-> id cells : 134 133 
+Id arete : 258 -> id sommets : 51 58-> id cells : 133 121 
+Id arete : 259 -> id sommets : 51 57-> id cells : 122 121 
+Id arete : 260 -> id sommets : 51 55-> id cells : 134 113 
+Id arete : 261 -> id sommets : 52 72-> id cells : 170 168 
+Id arete : 262 -> id sommets : 52 62-> id cells : 170 131 
+Id arete : 263 -> id sommets : 52 61-> id cells : 131 129 
+Id arete : 264 -> id sommets : 52 56-> id cells : 168 119 
+Id arete : 265 -> id sommets : 52 53-> id cells : 129 106 
+Id arete : 266 -> id sommets : 53 61-> id cells : 130 129 
+Id arete : 267 -> id sommets : 54 72-> id cells : 180 177 167 165 
+Id arete : 268 -> id sommets : 54 66-> id cells : 180 177 174 173 151 148 144 143 
+Id arete : 269 -> id sommets : 54 64-> id cells : 177 174 165 136 
+Id arete : 270 -> id sommets : 54 63-> id cells : 174 173 136 135 
+Id arete : 271 -> id sommets : 54 56-> id cells : 180 167 151 118 
+Id arete : 272 -> id sommets : 54 55-> id cells : 173 144 135 112 
+Id arete : 273 -> id sommets : 55 67-> id cells : 172 145 
+Id arete : 274 -> id sommets : 55 66-> id cells : 173 172 145 144 
+Id arete : 275 -> id sommets : 55 63-> id cells : 173 172 135 134 
+Id arete : 276 -> id sommets : 56 72-> id cells : 180 179 168 167 
+Id arete : 277 -> id sommets : 56 68-> id cells : 179 150 
+Id arete : 278 -> id sommets : 56 66-> id cells : 180 179 151 150 
+Id arete : 279 -> id sommets : 57 60-> id cells : 126 125 
+Id arete : 280 -> id sommets : 57 59-> id cells : 125 124 
+Id arete : 281 -> id sommets : 57 58-> id cells : 126 121 
+Id arete : 282 -> id sommets : 58 63-> id cells : 138 133 
+Id arete : 283 -> id sommets : 58 60-> id cells : 138 126 
+Id arete : 284 -> id sommets : 59 61-> id cells : 128 127 
+Id arete : 285 -> id sommets : 59 60-> id cells : 128 125 
+Id arete : 286 -> id sommets : 60 72-> id cells : 169 166 
+Id arete : 287 -> id sommets : 60 64-> id cells : 166 137 
+Id arete : 288 -> id sommets : 60 63-> id cells : 138 137 
+Id arete : 289 -> id sommets : 60 62-> id cells : 169 132 
+Id arete : 290 -> id sommets : 60 61-> id cells : 132 128 
+Id arete : 291 -> id sommets : 61 62-> id cells : 132 131 
+Id arete : 292 -> id sommets : 62 72-> id cells : 170 169 
+Id arete : 293 -> id sommets : 63 74-> id cells : 176 175 
+Id arete : 294 -> id sommets : 63 73-> id cells : 176 171 
+Id arete : 295 -> id sommets : 63 67-> id cells : 172 171 
+Id arete : 296 -> id sommets : 63 66-> id cells : 176 175 174 173 172 171 
+Id arete : 297 -> id sommets : 63 64-> id cells : 175 174 137 136 
+Id arete : 298 -> id sommets : 64 74-> id cells : 178 175 
+Id arete : 299 -> id sommets : 64 72-> id cells : 178 177 166 165 
+Id arete : 300 -> id sommets : 64 66-> id cells : 178 177 175 174 
+Id arete : 301 -> id sommets : 65 71-> id cells : 163 162 
+Id arete : 302 -> id sommets : 65 69-> id cells : 162 159 
+Id arete : 303 -> id sommets : 65 68-> id cells : 164 163 
+Id arete : 304 -> id sommets : 65 66-> id cells : 164 163 162 161 160 159 
+Id arete : 305 -> id sommets : 66 78-> id cells : 194 193 192 191 190 189 
+Id arete : 306 -> id sommets : 66 77-> id cells : 190 189 187 186 
+Id arete : 307 -> id sommets : 66 76-> id cells : 188 187 186 185 184 183 
+Id arete : 308 -> id sommets : 66 75-> id cells : 194 193 182 181 
+Id arete : 309 -> id sommets : 66 74-> id cells : 193 190 188 187 182 178 176 175 
+Id arete : 310 -> id sommets : 66 73-> id cells : 188 183 176 171 
+Id arete : 311 -> id sommets : 66 72-> id cells : 182 181 180 179 178 177 
+Id arete : 312 -> id sommets : 66 71-> id cells : 192 191 163 162 
+Id arete : 313 -> id sommets : 66 70-> id cells : 185 184 157 156 
+Id arete : 314 -> id sommets : 66 69-> id cells : 191 189 186 185 162 159 156 155 
+Id arete : 315 -> id sommets : 66 68-> id cells : 194 192 181 179 164 163 152 150 
+Id arete : 316 -> id sommets : 66 67-> id cells : 184 183 172 171 158 157 146 145 
+Id arete : 317 -> id sommets : 67 76-> id cells : 184 183 
+Id arete : 318 -> id sommets : 67 73-> id cells : 183 171 
+Id arete : 319 -> id sommets : 67 70-> id cells : 184 157 
+Id arete : 320 -> id sommets : 68 78-> id cells : 194 192 
+Id arete : 321 -> id sommets : 68 75-> id cells : 194 181 
+Id arete : 322 -> id sommets : 68 72-> id cells : 181 179 
+Id arete : 323 -> id sommets : 68 71-> id cells : 192 163 
+Id arete : 324 -> id sommets : 69 78-> id cells : 191 189 
+Id arete : 325 -> id sommets : 69 77-> id cells : 189 186 
+Id arete : 326 -> id sommets : 69 76-> id cells : 186 185 
+Id arete : 327 -> id sommets : 69 71-> id cells : 191 162 
+Id arete : 328 -> id sommets : 69 70-> id cells : 185 156 
+Id arete : 329 -> id sommets : 70 76-> id cells : 185 184 
+Id arete : 330 -> id sommets : 71 78-> id cells : 192 191 
+Id arete : 331 -> id sommets : 72 75-> id cells : 182 181 
+Id arete : 332 -> id sommets : 72 74-> id cells : 182 178 
+Id arete : 333 -> id sommets : 73 76-> id cells : 188 183 
+Id arete : 334 -> id sommets : 73 74-> id cells : 188 176 
+Id arete : 335 -> id sommets : 74 78-> id cells : 193 190 
+Id arete : 336 -> id sommets : 74 77-> id cells : 190 187 
+Id arete : 337 -> id sommets : 74 76-> id cells : 188 187 
+Id arete : 338 -> id sommets : 74 75-> id cells : 193 182 
+Id arete : 339 -> id sommets : 75 78-> id cells : 194 193 
+Id arete : 340 -> id sommets : 76 77-> id cells : 187 186 
+Id arete : 341 -> id sommets : 77 78-> id cells : 190 189 
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells0
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells0
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells0
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells0
+number of Id from adjacentCells0
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells2
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+number of Id from adjacentCells1
+Nombre de facettes pour le sommet primal : 0 = 3
+Nombre de facettes pour le sommet primal : 1 = 1
+Nombre de facettes pour le sommet primal : 2 = 0
+Nombre de facettes pour le sommet primal : 3 = 3
+Nombre de facettes pour le sommet primal : 4 = 4
+Nombre de facettes pour le sommet primal : 5 = 0
+Nombre de facettes pour le sommet primal : 6 = 0
+Nombre de facettes pour le sommet primal : 7 = 3
+Nombre de facettes pour le sommet primal : 8 = 1
+Nombre de facettes pour le sommet primal : 9 = 1
+Nombre de facettes pour le sommet primal : 10 = 26
+Nombre de facettes pour le sommet primal : 11 = 1
+Nombre de facettes pour le sommet primal : 12 = 1
+Nombre de facettes pour le sommet primal : 13 = 1
+Nombre de facettes pour le sommet primal : 14 = 1
+Nombre de facettes pour le sommet primal : 15 = 1
+Nombre de facettes pour le sommet primal : 16 = 3
+Nombre de facettes pour le sommet primal : 17 = 4
+Nombre de facettes pour le sommet primal : 18 = 10
+Nombre de facettes pour le sommet primal : 19 = 3
+Nombre de facettes pour le sommet primal : 20 = 9
+Nombre de facettes pour le sommet primal : 21 = 3
+Nombre de facettes pour le sommet primal : 22 = 1
+Nombre de facettes pour le sommet primal : 23 = 0
+Nombre de facettes pour le sommet primal : 24 = 3
+Nombre de facettes pour le sommet primal : 25 = 3
+Nombre de facettes pour le sommet primal : 26 = 3
+Nombre de facettes pour le sommet primal : 27 = 10
+Nombre de facettes pour le sommet primal : 28 = 3
+Nombre de facettes pour le sommet primal : 29 = 3
+Nombre de facettes pour le sommet primal : 30 = 9
+Nombre de facettes pour le sommet primal : 31 = 10
+Nombre de facettes pour le sommet primal : 32 = 1
+Nombre de facettes pour le sommet primal : 33 = 1
+Nombre de facettes pour le sommet primal : 34 = 0
+Nombre de facettes pour le sommet primal : 35 = 0
+Nombre de facettes pour le sommet primal : 36 = 1
+Nombre de facettes pour le sommet primal : 37 = 13
+Nombre de facettes pour le sommet primal : 38 = 1
+Nombre de facettes pour le sommet primal : 39 = 0
+Nombre de facettes pour le sommet primal : 40 = 0
+Nombre de facettes pour le sommet primal : 41 = 0
+Nombre de facettes pour le sommet primal : 42 = 9
+Nombre de facettes pour le sommet primal : 43 = 3
+Nombre de facettes pour le sommet primal : 44 = 10
+Nombre de facettes pour le sommet primal : 45 = 2
+Nombre de facettes pour le sommet primal : 46 = 2
+Nombre de facettes pour le sommet primal : 47 = 2
+Nombre de facettes pour le sommet primal : 48 = 26
+Nombre de facettes pour le sommet primal : 49 = 1
+Nombre de facettes pour le sommet primal : 50 = 1
+Nombre de facettes pour le sommet primal : 51 = 1
+Nombre de facettes pour le sommet primal : 52 = 1
+Nombre de facettes pour le sommet primal : 53 = 1
+Nombre de facettes pour le sommet primal : 54 = 10
+Nombre de facettes pour le sommet primal : 55 = 3
+Nombre de facettes pour le sommet primal : 56 = 3
+Nombre de facettes pour le sommet primal : 57 = 1
+Nombre de facettes pour le sommet primal : 58 = 1
+Nombre de facettes pour le sommet primal : 59 = 1
+Nombre de facettes pour le sommet primal : 60 = 1
+Nombre de facettes pour le sommet primal : 61 = 1
+Nombre de facettes pour le sommet primal : 62 = 1
+Nombre de facettes pour le sommet primal : 63 = 3
+Nombre de facettes pour le sommet primal : 64 = 3
+Nombre de facettes pour le sommet primal : 65 = 2
+Nombre de facettes pour le sommet primal : 66 = 26
+Nombre de facettes pour le sommet primal : 67 = 1
+Nombre de facettes pour le sommet primal : 68 = 1
+Nombre de facettes pour le sommet primal : 69 = 1
+Nombre de facettes pour le sommet primal : 70 = 1
+Nombre de facettes pour le sommet primal : 71 = 1
+Nombre de facettes pour le sommet primal : 72 = 3
+Nombre de facettes pour le sommet primal : 73 = 1
+Nombre de facettes pour le sommet primal : 74 = 1
+Nombre de facettes pour le sommet primal : 75 = 1
+Nombre de facettes pour le sommet primal : 76 = 1
+Nombre de facettes pour le sommet primal : 77 = 1
+Nombre de facettes pour le sommet primal : 78 = 1
+Nombre de facettes pour le sommet dual : 0 = 1
+Nombre de facettes pour le sommet dual : 1 = 2
+Nombre de facettes pour le sommet dual : 2 = 1
+Nombre de facettes pour le sommet dual : 3 = 1
+Nombre de facettes pour le sommet dual : 4 = 2
+Nombre de facettes pour le sommet dual : 5 = 4
+Nombre de facettes pour le sommet dual : 6 = 3
+Nombre de facettes pour le sommet dual : 7 = 3
+Nombre de facettes pour le sommet dual : 8 = 3
+Nombre de facettes pour le sommet dual : 9 = 3
+Nombre de facettes pour le sommet dual : 10 = 3
+Nombre de facettes pour le sommet dual : 11 = 3
+Nombre de facettes pour le sommet dual : 12 = 4
+Nombre de facettes pour le sommet dual : 13 = 3
+Nombre de facettes pour le sommet dual : 14 = 5
+Nombre de facettes pour le sommet dual : 15 = 3
+Nombre de facettes pour le sommet dual : 16 = 3
+Nombre de facettes pour le sommet dual : 17 = 3
+Nombre de facettes pour le sommet dual : 18 = 3
+Nombre de facettes pour le sommet dual : 19 = 3
+Nombre de facettes pour le sommet dual : 20 = 5
+Nombre de facettes pour le sommet dual : 21 = 5
+Nombre de facettes pour le sommet dual : 22 = 3
+Nombre de facettes pour le sommet dual : 23 = 3
+Nombre de facettes pour le sommet dual : 24 = 6
+Nombre de facettes pour le sommet dual : 25 = 5
+Nombre de facettes pour le sommet dual : 26 = 5
+Nombre de facettes pour le sommet dual : 27 = 5
+Nombre de facettes pour le sommet dual : 28 = 3
+Nombre de facettes pour le sommet dual : 29 = 3
+Nombre de facettes pour le sommet dual : 30 = 3
+Nombre de facettes pour le sommet dual : 31 = 3
+Nombre de facettes pour le sommet dual : 32 = 2
+Nombre de facettes pour le sommet dual : 33 = 1
+Nombre de facettes pour le sommet dual : 34 = 4
+Nombre de facettes pour le sommet dual : 35 = 2
+Nombre de facettes pour le sommet dual : 36 = 3
+Nombre de facettes pour le sommet dual : 37 = 3
+Nombre de facettes pour le sommet dual : 38 = 3
+Nombre de facettes pour le sommet dual : 39 = 3
+Nombre de facettes pour le sommet dual : 40 = 5
+Nombre de facettes pour le sommet dual : 41 = 5
+Nombre de facettes pour le sommet dual : 42 = 3
+Nombre de facettes pour le sommet dual : 43 = 5
+Nombre de facettes pour le sommet dual : 44 = 3
+Nombre de facettes pour le sommet dual : 45 = 3
+Nombre de facettes pour le sommet dual : 46 = 3
+Nombre de facettes pour le sommet dual : 47 = 5
+Nombre de facettes pour le sommet dual : 48 = 3
+Nombre de facettes pour le sommet dual : 49 = 3
+Nombre de facettes pour le sommet dual : 50 = 5
+Nombre de facettes pour le sommet dual : 51 = 6
+Nombre de facettes pour le sommet dual : 52 = 6
+Nombre de facettes pour le sommet dual : 53 = 5
+Nombre de facettes pour le sommet dual : 54 = 3
+Nombre de facettes pour le sommet dual : 55 = 3
+Nombre de facettes pour le sommet dual : 56 = 1
+Nombre de facettes pour le sommet dual : 57 = 2
+Nombre de facettes pour le sommet dual : 58 = 1
+Nombre de facettes pour le sommet dual : 59 = 2
+Nombre de facettes pour le sommet dual : 60 = 2
+Nombre de facettes pour le sommet dual : 61 = 2
+Nombre de facettes pour le sommet dual : 62 = 5
+Nombre de facettes pour le sommet dual : 63 = 5
+Nombre de facettes pour le sommet dual : 64 = 3
+Nombre de facettes pour le sommet dual : 65 = 3
+Nombre de facettes pour le sommet dual : 66 = 4
+Nombre de facettes pour le sommet dual : 67 = 6
+Nombre de facettes pour le sommet dual : 68 = 2
+Nombre de facettes pour le sommet dual : 69 = 2
+Nombre de facettes pour le sommet dual : 70 = 5
+Nombre de facettes pour le sommet dual : 71 = 1
+Nombre de facettes pour le sommet dual : 72 = 1
+Nombre de facettes pour le sommet dual : 73 = 1
+Nombre de facettes pour le sommet dual : 74 = 2
+Nombre de facettes pour le sommet dual : 75 = 6
+Nombre de facettes pour le sommet dual : 76 = 6
+Nombre de facettes pour le sommet dual : 77 = 5
+Nombre de facettes pour le sommet dual : 78 = 3
+Nombre de facettes pour le sommet dual : 79 = 5
+Nombre de facettes pour le sommet dual : 80 = 3
+Nombre de facettes pour le sommet dual : 81 = 3
+Nombre de facettes pour le sommet dual : 82 = 3
+Nombre de facettes pour le sommet dual : 83 = 5
+Nombre de facettes pour le sommet dual : 84 = 6
+Nombre de facettes pour le sommet dual : 85 = 6
+Nombre de facettes pour le sommet dual : 86 = 5
+Nombre de facettes pour le sommet dual : 87 = 6
+Nombre de facettes pour le sommet dual : 88 = 6
+Nombre de facettes pour le sommet dual : 89 = 2
+Nombre de facettes pour le sommet dual : 90 = 5
+Nombre de facettes pour le sommet dual : 91 = 1
+Nombre de facettes pour le sommet dual : 92 = 4
+Nombre de facettes pour le sommet dual : 93 = 2
+Nombre de facettes pour le sommet dual : 94 = 1
+Nombre de facettes pour le sommet dual : 95 = 3
+Nombre de facettes pour le sommet dual : 96 = 4
+Nombre de facettes pour le sommet dual : 97 = 5
+Nombre de facettes pour le sommet dual : 98 = 5
+Nombre de facettes pour le sommet dual : 99 = 3
+Nombre de facettes pour le sommet dual : 100 = 3
+Nombre de facettes pour le sommet dual : 101 = 3
+Nombre de facettes pour le sommet dual : 102 = 3
+Nombre de facettes pour le sommet dual : 103 = 5
+Nombre de facettes pour le sommet dual : 104 = 3
+Nombre de facettes pour le sommet dual : 105 = 5
+Nombre de facettes pour le sommet dual : 106 = 3
+Nombre de facettes pour le sommet dual : 107 = 3
+Nombre de facettes pour le sommet dual : 108 = 3
+Nombre de facettes pour le sommet dual : 109 = 5
+Nombre de facettes pour le sommet dual : 110 = 6
+Nombre de facettes pour le sommet dual : 111 = 6
+Nombre de facettes pour le sommet dual : 112 = 5
+Nombre de facettes pour le sommet dual : 113 = 3
+Nombre de facettes pour le sommet dual : 114 = 3
+Nombre de facettes pour le sommet dual : 115 = 6
+Nombre de facettes pour le sommet dual : 116 = 6
+Nombre de facettes pour le sommet dual : 117 = 5
+Nombre de facettes pour le sommet dual : 118 = 5
+Nombre de facettes pour le sommet dual : 119 = 3
+Nombre de facettes pour le sommet dual : 120 = 3
+Nombre de facettes pour le sommet dual : 121 = 3
+Nombre de facettes pour le sommet dual : 122 = 3
+Nombre de facettes pour le sommet dual : 123 = 3
+Nombre de facettes pour le sommet dual : 124 = 3
+Nombre de facettes pour le sommet dual : 125 = 3
+Nombre de facettes pour le sommet dual : 126 = 3
+Nombre de facettes pour le sommet dual : 127 = 3
+Nombre de facettes pour le sommet dual : 128 = 3
+Nombre de facettes pour le sommet dual : 129 = 3
+Nombre de facettes pour le sommet dual : 130 = 3
+Nombre de facettes pour le sommet dual : 131 = 3
+Nombre de facettes pour le sommet dual : 132 = 3
+Nombre de facettes pour le sommet dual : 133 = 3
+Nombre de facettes pour le sommet dual : 134 = 3
+Nombre de facettes pour le sommet dual : 135 = 5
+Nombre de facettes pour le sommet dual : 136 = 5
+Nombre de facettes pour le sommet dual : 137 = 3
+Nombre de facettes pour le sommet dual : 138 = 3
+Nombre de facettes pour le sommet dual : 139 = 3
+Nombre de facettes pour le sommet dual : 140 = 3
+Nombre de facettes pour le sommet dual : 141 = 5
+Nombre de facettes pour le sommet dual : 142 = 6
+Nombre de facettes pour le sommet dual : 143 = 6
+Nombre de facettes pour le sommet dual : 144 = 5
+Nombre de facettes pour le sommet dual : 145 = 3
+Nombre de facettes pour le sommet dual : 146 = 3
+Nombre de facettes pour le sommet dual : 147 = 6
+Nombre de facettes pour le sommet dual : 148 = 6
+Nombre de facettes pour le sommet dual : 149 = 5
+Nombre de facettes pour le sommet dual : 150 = 3
+Nombre de facettes pour le sommet dual : 151 = 5
+Nombre de facettes pour le sommet dual : 152 = 3
+Nombre de facettes pour le sommet dual : 153 = 5
+Nombre de facettes pour le sommet dual : 154 = 5
+Nombre de facettes pour le sommet dual : 155 = 3
+Nombre de facettes pour le sommet dual : 156 = 3
+Nombre de facettes pour le sommet dual : 157 = 3
+Nombre de facettes pour le sommet dual : 158 = 3
+Nombre de facettes pour le sommet dual : 159 = 3
+Nombre de facettes pour le sommet dual : 160 = 5
+Nombre de facettes pour le sommet dual : 161 = 5
+Nombre de facettes pour le sommet dual : 162 = 3
+Nombre de facettes pour le sommet dual : 163 = 3
+Nombre de facettes pour le sommet dual : 164 = 3
+Nombre de facettes pour le sommet dual : 165 = 5
+Nombre de facettes pour le sommet dual : 166 = 3
+Nombre de facettes pour le sommet dual : 167 = 5
+Nombre de facettes pour le sommet dual : 168 = 3
+Nombre de facettes pour le sommet dual : 169 = 3
+Nombre de facettes pour le sommet dual : 170 = 3
+Nombre de facettes pour le sommet dual : 171 = 3
+Nombre de facettes pour le sommet dual : 172 = 3
+Nombre de facettes pour le sommet dual : 173 = 5
+Nombre de facettes pour le sommet dual : 174 = 5
+Nombre de facettes pour le sommet dual : 175 = 3
+Nombre de facettes pour le sommet dual : 176 = 3
+Nombre de facettes pour le sommet dual : 177 = 5
+Nombre de facettes pour le sommet dual : 178 = 3
+Nombre de facettes pour le sommet dual : 179 = 3
+Nombre de facettes pour le sommet dual : 180 = 5
+Nombre de facettes pour le sommet dual : 181 = 3
+Nombre de facettes pour le sommet dual : 182 = 3
+Nombre de facettes pour le sommet dual : 183 = 3
+Nombre de facettes pour le sommet dual : 184 = 3
+Nombre de facettes pour le sommet dual : 185 = 3
+Nombre de facettes pour le sommet dual : 186 = 3
+Nombre de facettes pour le sommet dual : 187 = 3
+Nombre de facettes pour le sommet dual : 188 = 3
+Nombre de facettes pour le sommet dual : 189 = 3
+Nombre de facettes pour le sommet dual : 190 = 3
+Nombre de facettes pour le sommet dual : 191 = 3
+Nombre de facettes pour le sommet dual : 192 = 3
+Nombre de facettes pour le sommet dual : 193 = 3
+Nombre de facettes pour le sommet dual : 194 = 3
+Number of Cells in dualMesh : 135
+Dual Vertex [ 5 ] Cells [ 7, 4, 3, 0,  ]
+Dual Vertex [ 6 ] Cells [ 10, 4,  ]
+Dual Vertex [ 7 ] Cells [ 10, 4,  ]
+Dual Vertex [ 8 ] Cells [ 10,  ]
+Dual Vertex [ 9 ] Cells [ 10,  ]
+Dual Vertex [ 10 ] Cells [ 10,  ]
+Dual Vertex [ 11 ] Cells [ 10,  ]
+Dual Vertex [ 12 ] Cells [ 10, 4, 3,  ]
+Dual Vertex [ 13 ] Cells [ 10, 3,  ]
+Dual Vertex [ 14 ] Cells [ 10, 7, 4, 3,  ]
+Dual Vertex [ 15 ] Cells [ 10, 3,  ]
+Dual Vertex [ 16 ] Cells [ 10, 3,  ]
+Dual Vertex [ 17 ] Cells [ 10, 7, 3,  ]
+Dual Vertex [ 18 ] Cells [ 16, 10, 4,  ]
+Dual Vertex [ 19 ] Cells [ 17, 16, 10, 4,  ]
+Dual Vertex [ 20 ] Cells [ 18, 17, 16, 10,  ]
+Dual Vertex [ 21 ] Cells [ 19, 18, 16, 10,  ]
+Dual Vertex [ 22 ] Cells [ 19, 16, 10,  ]
+Dual Vertex [ 23 ] Cells [ 16, 10,  ]
+Dual Vertex [ 24 ] Cells [ 20, 18, 17, 10,  ]
+Dual Vertex [ 25 ] Cells [ 20, 17, 10, 4,  ]
+Dual Vertex [ 26 ] Cells [ 20, 10, 7, 4,  ]
+Dual Vertex [ 27 ] Cells [ 21, 20, 18, 10,  ]
+Dual Vertex [ 28 ] Cells [ 21, 20, 10,  ]
+Dual Vertex [ 29 ] Cells [ 20, 10, 7,  ]
+Dual Vertex [ 30 ] Cells [ 20, 17, 0,  ]
+Dual Vertex [ 31 ] Cells [ 20, 17, 4, 0,  ]
+Dual Vertex [ 34 ] Cells [ 20, 7, 4, 0,  ]
+Dual Vertex [ 36 ] Cells [ 25, 24, 10,  ]
+Dual Vertex [ 37 ] Cells [ 24, 10,  ]
+Dual Vertex [ 38 ] Cells [ 24, 10,  ]
+Dual Vertex [ 39 ] Cells [ 26, 24, 10,  ]
+Dual Vertex [ 40 ] Cells [ 27, 26, 24, 10,  ]
+Dual Vertex [ 41 ] Cells [ 27, 25, 24, 10,  ]
+Dual Vertex [ 42 ] Cells [ 28, 26, 10,  ]
+Dual Vertex [ 43 ] Cells [ 28, 27, 26, 10,  ]
+Dual Vertex [ 44 ] Cells [ 28, 10,  ]
+Dual Vertex [ 45 ] Cells [ 28, 10,  ]
+Dual Vertex [ 46 ] Cells [ 29, 28, 10,  ]
+Dual Vertex [ 47 ] Cells [ 29, 28, 27, 10,  ]
+Dual Vertex [ 48 ] Cells [ 30, 25, 10,  ]
+Dual Vertex [ 49 ] Cells [ 30, 19, 10,  ]
+Dual Vertex [ 50 ] Cells [ 30, 19, 18, 10,  ]
+Dual Vertex [ 51 ] Cells [ 31, 30, 18, 10,  ]
+Dual Vertex [ 52 ] Cells [ 31, 30, 27, 10,  ]
+Dual Vertex [ 53 ] Cells [ 30, 27, 25, 10,  ]
+Dual Vertex [ 54 ] Cells [ 20, 17,  ]
+Dual Vertex [ 55 ] Cells [ 20, 17,  ]
+Dual Vertex [ 62 ] Cells [ 37, 18, 17, 16,  ]
+Dual Vertex [ 63 ] Cells [ 37, 19, 18, 16,  ]
+Dual Vertex [ 64 ] Cells [ 37, 19, 16,  ]
+Dual Vertex [ 65 ] Cells [ 37, 16,  ]
+Dual Vertex [ 66 ] Cells [ 37, 20, 17,  ]
+Dual Vertex [ 67 ] Cells [ 37, 20, 18, 17,  ]
+Dual Vertex [ 70 ] Cells [ 37, 21, 20, 18,  ]
+Dual Vertex [ 75 ] Cells [ 42, 31, 18, 10,  ]
+Dual Vertex [ 76 ] Cells [ 42, 31, 27, 10,  ]
+Dual Vertex [ 77 ] Cells [ 42, 21, 18, 10,  ]
+Dual Vertex [ 78 ] Cells [ 42, 21, 10,  ]
+Dual Vertex [ 79 ] Cells [ 42, 29, 27, 10,  ]
+Dual Vertex [ 80 ] Cells [ 42, 29, 10,  ]
+Dual Vertex [ 81 ] Cells [ 43, 37, 30,  ]
+Dual Vertex [ 82 ] Cells [ 37, 30, 19,  ]
+Dual Vertex [ 83 ] Cells [ 37, 30, 19, 18,  ]
+Dual Vertex [ 84 ] Cells [ 37, 31, 30, 18,  ]
+Dual Vertex [ 85 ] Cells [ 44, 37, 31, 30,  ]
+Dual Vertex [ 86 ] Cells [ 44, 43, 37, 30,  ]
+Dual Vertex [ 87 ] Cells [ 42, 37, 31, 18,  ]
+Dual Vertex [ 88 ] Cells [ 44, 42, 37, 31,  ]
+Dual Vertex [ 90 ] Cells [ 42, 37, 21, 18,  ]
+Dual Vertex [ 92 ] Cells [ 45, 44, 42, 37,  ]
+Dual Vertex [ 95 ] Cells [ 47, 46, 44, 37,  ]
+Dual Vertex [ 96 ] Cells [ 46, 44, 43, 37,  ]
+Dual Vertex [ 97 ] Cells [ 48, 27, 25, 24,  ]
+Dual Vertex [ 98 ] Cells [ 48, 27, 26, 24,  ]
+Dual Vertex [ 99 ] Cells [ 48, 26, 24,  ]
+Dual Vertex [ 100 ] Cells [ 48, 24,  ]
+Dual Vertex [ 101 ] Cells [ 48, 24,  ]
+Dual Vertex [ 102 ] Cells [ 48, 25, 24,  ]
+Dual Vertex [ 103 ] Cells [ 48, 28, 27, 26,  ]
+Dual Vertex [ 104 ] Cells [ 48, 28, 26,  ]
+Dual Vertex [ 105 ] Cells [ 48, 29, 28, 27,  ]
+Dual Vertex [ 106 ] Cells [ 48, 28,  ]
+Dual Vertex [ 107 ] Cells [ 48, 28,  ]
+Dual Vertex [ 108 ] Cells [ 48, 29, 28,  ]
+Dual Vertex [ 109 ] Cells [ 48, 30, 27, 25,  ]
+Dual Vertex [ 110 ] Cells [ 48, 31, 30, 27,  ]
+Dual Vertex [ 111 ] Cells [ 54, 48, 31, 30,  ]
+Dual Vertex [ 112 ] Cells [ 55, 54, 48, 30,  ]
+Dual Vertex [ 113 ] Cells [ 55, 48, 30,  ]
+Dual Vertex [ 114 ] Cells [ 48, 30, 25,  ]
+Dual Vertex [ 115 ] Cells [ 54, 48, 42, 31,  ]
+Dual Vertex [ 116 ] Cells [ 48, 42, 31, 27,  ]
+Dual Vertex [ 117 ] Cells [ 48, 42, 29, 27,  ]
+Dual Vertex [ 118 ] Cells [ 56, 54, 48, 42,  ]
+Dual Vertex [ 119 ] Cells [ 56, 48, 42,  ]
+Dual Vertex [ 120 ] Cells [ 48, 42, 29,  ]
+Dual Vertex [ 121 ] Cells [ 48,  ]
+Dual Vertex [ 122 ] Cells [ 48,  ]
+Dual Vertex [ 123 ] Cells [ 48,  ]
+Dual Vertex [ 124 ] Cells [ 48,  ]
+Dual Vertex [ 125 ] Cells [ 48,  ]
+Dual Vertex [ 126 ] Cells [ 48,  ]
+Dual Vertex [ 127 ] Cells [ 48,  ]
+Dual Vertex [ 128 ] Cells [ 48,  ]
+Dual Vertex [ 129 ] Cells [ 48,  ]
+Dual Vertex [ 130 ] Cells [ 48,  ]
+Dual Vertex [ 131 ] Cells [ 48,  ]
+Dual Vertex [ 132 ] Cells [ 48,  ]
+Dual Vertex [ 133 ] Cells [ 63, 48,  ]
+Dual Vertex [ 134 ] Cells [ 63, 55, 48,  ]
+Dual Vertex [ 135 ] Cells [ 63, 55, 54, 48,  ]
+Dual Vertex [ 136 ] Cells [ 64, 63, 54, 48,  ]
+Dual Vertex [ 137 ] Cells [ 64, 63, 48,  ]
+Dual Vertex [ 138 ] Cells [ 63, 48,  ]
+Dual Vertex [ 139 ] Cells [ 65, 47, 44, 37,  ]
+Dual Vertex [ 140 ] Cells [ 65, 45, 44, 37,  ]
+Dual Vertex [ 141 ] Cells [ 66, 44, 43, 30,  ]
+Dual Vertex [ 142 ] Cells [ 66, 44, 31, 30,  ]
+Dual Vertex [ 143 ] Cells [ 66, 54, 31, 30,  ]
+Dual Vertex [ 144 ] Cells [ 66, 55, 54, 30,  ]
+Dual Vertex [ 145 ] Cells [ 66, 55, 30,  ]
+Dual Vertex [ 146 ] Cells [ 66, 43, 30,  ]
+Dual Vertex [ 147 ] Cells [ 66, 44, 42, 31,  ]
+Dual Vertex [ 148 ] Cells [ 66, 54, 42, 31,  ]
+Dual Vertex [ 149 ] Cells [ 66, 45, 44, 42,  ]
+Dual Vertex [ 150 ] Cells [ 66, 56, 42,  ]
+Dual Vertex [ 151 ] Cells [ 66, 56, 54, 42,  ]
+Dual Vertex [ 152 ] Cells [ 66, 45, 42,  ]
+Dual Vertex [ 153 ] Cells [ 66, 46, 44, 43,  ]
+Dual Vertex [ 154 ] Cells [ 66, 47, 46, 44,  ]
+Dual Vertex [ 155 ] Cells [ 66, 47, 46,  ]
+Dual Vertex [ 156 ] Cells [ 66, 46,  ]
+Dual Vertex [ 157 ] Cells [ 66, 46,  ]
+Dual Vertex [ 158 ] Cells [ 66, 46, 43,  ]
+Dual Vertex [ 159 ] Cells [ 66, 65, 47,  ]
+Dual Vertex [ 160 ] Cells [ 66, 65, 47, 44,  ]
+Dual Vertex [ 161 ] Cells [ 66, 65, 45, 44,  ]
+Dual Vertex [ 162 ] Cells [ 66, 65,  ]
+Dual Vertex [ 163 ] Cells [ 66, 65,  ]
+Dual Vertex [ 164 ] Cells [ 66, 65, 45,  ]
+Dual Vertex [ 165 ] Cells [ 72, 64, 54, 48,  ]
+Dual Vertex [ 166 ] Cells [ 72, 64, 48,  ]
+Dual Vertex [ 167 ] Cells [ 72, 56, 54, 48,  ]
+Dual Vertex [ 168 ] Cells [ 72, 56, 48,  ]
+Dual Vertex [ 169 ] Cells [ 72, 48,  ]
+Dual Vertex [ 170 ] Cells [ 72, 48,  ]
+Dual Vertex [ 171 ] Cells [ 66, 63,  ]
+Dual Vertex [ 172 ] Cells [ 66, 63, 55,  ]
+Dual Vertex [ 173 ] Cells [ 66, 63, 55, 54,  ]
+Dual Vertex [ 174 ] Cells [ 66, 64, 63, 54,  ]
+Dual Vertex [ 175 ] Cells [ 66, 64, 63,  ]
+Dual Vertex [ 176 ] Cells [ 66, 63,  ]
+Dual Vertex [ 177 ] Cells [ 72, 66, 64, 54,  ]
+Dual Vertex [ 178 ] Cells [ 72, 66, 64,  ]
+Dual Vertex [ 179 ] Cells [ 72, 66, 56,  ]
+Dual Vertex [ 180 ] Cells [ 72, 66, 56, 54,  ]
+Dual Vertex [ 181 ] Cells [ 72, 66,  ]
+Dual Vertex [ 182 ] Cells [ 72, 66,  ]
+Dual Vertex [ 183 ] Cells [ 66,  ]
+Dual Vertex [ 184 ] Cells [ 66,  ]
+Dual Vertex [ 185 ] Cells [ 66,  ]
+Dual Vertex [ 186 ] Cells [ 66,  ]
+Dual Vertex [ 187 ] Cells [ 66,  ]
+Dual Vertex [ 188 ] Cells [ 66,  ]
+Dual Vertex [ 189 ] Cells [ 66,  ]
+Dual Vertex [ 190 ] Cells [ 66,  ]
+Dual Vertex [ 191 ] Cells [ 66,  ]
+Dual Vertex [ 192 ] Cells [ 66,  ]
+Dual Vertex [ 193 ] Cells [ 66,  ]
+Dual Vertex [ 194 ] Cells [ 66,  ]
+compare cells 0 and 1 by faces1
+point 0 : -0.503115 1.14553 0.0724395
+point 1 : -0.503115 1.18959 0.049002
+point 2 : -0.359246 1.10147 0.049002
+point 3 : -0.43118 1.10147 0.0724395
+point 4 : -0.359246 1.14553 0.0255645
+point 5 : -0.43118 1.18959 0.0255645
+point 6 : -0.718917 1.27771 0.0255645
+point 7 : -0.646983 1.27771 0.049002
+point 8 : -0.646983 1.32177 0.0724395
+point 9 : -0.718917 1.36582 0.0724395
